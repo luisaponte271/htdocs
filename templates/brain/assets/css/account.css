@@ -1,0 +1,68 @@
+.muti-sign-content .control-address input.ant-input.read {
+    background: transparent;
+    border: 1px solid transparent;
+}
+
+.muti-sign-content .control-address input.ant-input {
+    font-size: 13px;
+    margin-left: 12px;
+    width: 429px;
+}
+.ant-input.ant-input-sm {
+    height: 24px;
+}
+
+.ant-layout, .ant-layout * {
+    box-sizing: border-box;
+}
+ 
+
+.ant-input {
+    font-feature-settings: "tnum","tnum";
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+    box-sizing: border-box;
+    color: rgba(0,0,0,.85);
+    display: inline-block; 
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    margin: 0;
+    min-width: 0; 
+    position: relative;
+    transition: all .3s;
+    width: 100%;
+}
+
+.muti-sign-content .control-address .control-button.btn-default {
+    background: #fff!important;
+    border: 1px solid #d8d8d8!important;
+}
+
+.muti-sign-content .control-address .control-button {
+    border-radius: 2px;
+    color: #c33935;
+    float: right;
+    height: 27px;
+    letter-spacing: -.66px;
+    line-height: 27px;
+    margin-top: -2px;
+    min-width: 63.38px;
+    padding: 0 0.5rem;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.myaccount-container .btn-default {
+    border-color: rgba(51,51,51,.15);
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+}
+
+.mt-2, .my-2 {
+    margin-top: 0.5rem!important;
+}
